@@ -36,6 +36,8 @@ AWS EC2
 ## 4. 스키마 
 <img width="539" alt="image" src="https://github.com/user-attachments/assets/c98ab2ff-44fd-4b12-96cf-eacf20637342">
 
+## 5. 화면별 기능
+
 
 
 
