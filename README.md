@@ -14,3 +14,7 @@
 
 ![제주글로벌센터단체사진](https://github.com/user-attachments/assets/8d166fea-edb3-4a13-872a-d243aec6e4dd)
 
+## 1. 개발 환경
+
+
+## 2. 시스템 아키텍처
