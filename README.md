@@ -18,7 +18,7 @@
 React 
 Flask
 MongoDB
-
+AWS EC2
 
 ## 2. 개발 기간 및 작업 관리
 ### 개발 기간
