@@ -33,6 +33,8 @@ MongoDB
 
 
 ## 4. 스키마 
-![MongoDB SCHEMA](https://github.com/user-attachments/assets/e0c7fdad-92bd-4206-b988-2476bcb4084e)
+<img width="539" alt="image" src="https://github.com/user-attachments/assets/c98ab2ff-44fd-4b12-96cf-eacf20637342">
+
+
 
 
