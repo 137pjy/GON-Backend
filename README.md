@@ -37,6 +37,17 @@ AWS EC2
 <img width="539" alt="image" src="https://github.com/user-attachments/assets/c98ab2ff-44fd-4b12-96cf-eacf20637342">
 
 ## 5. 화면별 기능
+### [홈 화면]
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/7999e724-b814-424f-98c0-21b18ee3dc8f">
+
+구글 캘린더와 연동된 학사일정캘린더와 공지사항 바로가기를 확인할 수 있습니다.
+
+### [공지사항]
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/0c800dff-459d-4051-8d21-0b5cf344e814">
+공지 게시글을 업로드하고 댓글과 좋아요 기능을 사용할 수 있습니다.
+
+### []
+
 
 
 
