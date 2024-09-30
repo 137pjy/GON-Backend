@@ -30,6 +30,7 @@ MongoDB
 - 이슈 관리 : 매일 아침에 회의를 진행하며 진행상황 공유 및 계획을 수립하여 프로젝트를 진행하였습니다.
 
 ## 3. 시스템 아키텍처
+<img width="494" alt="image" src="https://github.com/user-attachments/assets/120c5748-bcfc-4605-8acf-1c5de6d14297">
 
 
 ## 4. 스키마 
