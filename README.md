@@ -46,7 +46,22 @@ AWS EC2
 <img width="1710" alt="image" src="https://github.com/user-attachments/assets/0c800dff-459d-4051-8d21-0b5cf344e814">
 공지 게시글을 업로드하고 댓글과 좋아요 기능을 사용할 수 있습니다.
 
-### []
+### [계정별 관리]
+- 학생 생성, 삭제, 수정
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/f286f162-96c2-48e0-adf7-b5c1508f4a31">
+<img width="1709" alt="image" src="https://github.com/user-attachments/assets/bae4d93e-eec9-47a5-a062-65825abf8577">
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/62083925-03f6-495c-a428-56b5b0bce786">
+- 선생님 생성, 삭제, 수정
+
+### [course 관리]
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/54f35ef2-2985-44c8-a53a-cc24854ab9d6">
+<img width="1708" alt="image" src="https://github.com/user-attachments/assets/2ddb6373-fa2b-498d-8e78-55a377c2a101">
+
+과목을 생성한 후, grade, sdction, batch, subject를 선택하여 course를 생성합니다.
+
+
+
+
 
 
 
