@@ -32,6 +32,7 @@ MongoDB
 ## 3. 시스템 아키텍처
 
 
-## 4. ERD
+## 4. 스키마 
+![MongoDB SCHEMA](https://github.com/user-attachments/assets/e0c7fdad-92bd-4206-b988-2476bcb4084e)
 
 
