@@ -53,7 +53,10 @@
 <img width="1710" alt="image" src="https://github.com/user-attachments/assets/f286f162-96c2-48e0-adf7-b5c1508f4a31">
 <img width="1709" alt="image" src="https://github.com/user-attachments/assets/bae4d93e-eec9-47a5-a062-65825abf8577">
 <img width="1710" alt="image" src="https://github.com/user-attachments/assets/62083925-03f6-495c-a428-56b5b0bce786">
+
+
 - 선생님 생성, 삭제, 수정
+  위와 동일한 화면입니다.
 
 ### [course 관리]
 <img width="1710" alt="image" src="https://github.com/user-attachments/assets/54f35ef2-2985-44c8-a53a-cc24854ab9d6">
