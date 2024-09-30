@@ -15,10 +15,12 @@
 ![제주글로벌센터단체사진](https://github.com/user-attachments/assets/8d166fea-edb3-4a13-872a-d243aec6e4dd)
 
 ## 1. 개발 환경
-React 
-Flask
-MongoDB
-AWS EC2
+- 프론트 : React
+- 백엔드 : Flask
+- DB : MongoDB
+- 배포 환경 : AWS EC2, Docker
+
+
 
 ## 2. 개발 기간 및 작업 관리
 ### 개발 기간
