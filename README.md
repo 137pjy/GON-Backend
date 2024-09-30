@@ -59,6 +59,11 @@ AWS EC2
 
 과목을 생성한 후, grade, sdction, batch, subject를 선택하여 course를 생성합니다.
 
+### [course에 선생님 할당]
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/1fe3a838-36f5-487f-995c-f88e6b177671">
+
+### [course에 학생 할당]
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/b317381b-a2cf-4a53-954e-5c7e37adae04">
 
 
 
